@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\ClassListaDoble\obj\Debug\netstandard2.0\ClassListaDoble.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ClassListaDoble\obj\Debug\netstandard2.0\ClassListaDoble.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ClassListaDoble\obj\Debug\netstandard2.0\ClassListaDoble.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ClassListaDoble\obj\Debug\netstandard2.0\ClassListaDoble.csproj.CoreCompileInputs.cache
